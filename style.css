@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
