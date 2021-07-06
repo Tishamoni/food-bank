@@ -8,7 +8,7 @@ body{
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 50%;
@@ -19,6 +19,7 @@ body{
     padding: 10px 40px;
     border-radius: 5px;
     margin: 5%;
+    color: white;
 
 }
 .recepies{
@@ -45,6 +46,7 @@ body{
 }
 .top{
     padding-top: 5%;
+    padding-bottom: 5%;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
 }
@@ -56,4 +58,11 @@ footer{
     text-align: center;
     display: block;
     background-color:red;
+
+}
+#health{
+    margin-bottom: 30px;
+}
+footer h1{
+    color:white
 }
