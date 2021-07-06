@@ -18,7 +18,10 @@ body{
     background-image: linear-gradient(red,orange);
     padding: 10px 40px;
     border-radius: 5px;
-    margin: 5%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
     color: white;
 
 }
@@ -27,7 +30,7 @@ body{
 } 
 .flexible{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 .item{
     width: 40%;
@@ -60,9 +63,7 @@ footer{
     background-color:red;
 
 }
-#health{
-    margin-bottom: 30px;
-}
+
 footer h1{
     color:white
 }
