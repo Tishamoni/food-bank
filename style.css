@@ -44,7 +44,6 @@ body{
     border-radius: 5%;
 }
 .recepies p{
-    padding:5%;
     margin: 5%;
 }
 .top{
@@ -52,6 +51,7 @@ body{
     padding-bottom: 5%;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .food{
     background-image: url(images/Frame\ 57.jpg);
