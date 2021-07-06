@@ -27,6 +27,7 @@ body{
 }
 .recepies{
     text-align: center;
+    margin:auto
 }
 .flexible{
     display: flex;
